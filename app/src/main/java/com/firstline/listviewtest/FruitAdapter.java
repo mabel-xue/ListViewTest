@@ -48,11 +48,8 @@ public class FruitAdapter extends ArrayAdapter<Fruit> {
     }
 
     class ViewHolder {
-
         ImageView fruitImage;
-
         TextView fruitName;
-
     }
 
 }
